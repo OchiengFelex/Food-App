@@ -1,0 +1,55 @@
+.content {
+    margin: 2px 10px;
+    height: 170vh;
+    width: 95%;
+    background-color: #5d4157 → #a8caba;
+}
+
+#intro {
+    color: deeppink;
+    text-align: center;
+}
+
+.main1 {
+    display: flex;
+    justify-content: space-evenly;
+    padding: 5px;
+}
+
+.Tform {
+    font-size: 25px;
+    height: 400px;
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    border: 1px solid white;
+}
+
+.Tform form input {
+    border: 2px solid grey;
+    padding: 5px 10px;
+    border-radius: 8px;
+    background-color: wheat;
+}
+
+.Tform form textarea {
+    border-radius: 8px;
+    background-color: wheat;
+}
+
+.dish2 {
+    display: flex;
+    justify-content: space-around;
+    padding-top: 5px;
+}
+
+.dish2 img {
+    border-radius: 10px;
+}
+
+.dish2 pre {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+}
